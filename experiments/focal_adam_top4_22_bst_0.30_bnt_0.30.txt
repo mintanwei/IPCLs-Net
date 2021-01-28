@@ -1,0 +1,13 @@
+Epoch:22
+Class A
+TP:169, FP:267, FN:53, Sensitivity=0.761, Precision=0.388, Recall=0.669
+Class B1
+TP:3248, FP:489, FN:249, Sensitivity=0.929, Precision=0.869, Recall=0.916
+Class B2
+TP:98, FP:40, FN:70, Sensitivity=0.583, Precision=0.710, Recall=0.466
+Class B3
+TP:20, FP:22, FN:5, Sensitivity=0.800, Precision=0.476, Recall=0.500
+Overall
+TP:3535, FP:818, FN:377, Sensitivity=0.904, Precision=0.812, Recall=0.884
+
+Epoch:22, Sensitivity=0.904, Precision=0.812, Recall=0.884

@@ -1,0 +1,301 @@
+Epoch:6
+Class A
+TP:25, FP:115, FN:138, Sensitivity=0.153, Precision=0.179, Recall=0.137, F2=0.144
+Class B1
+TP:2818, FP:459, FN:416, Sensitivity=0.871, Precision=0.860, Recall=0.860, F2=0.860
+Class B2
+TP:88, FP:25, FN:94, Sensitivity=0.484, Precision=0.779, Recall=0.282, F2=0.324
+Class B3
+TP:26, FP:120, FN:3, Sensitivity=0.897, Precision=0.178, Recall=0.700, F2=0.441
+Overall
+TP:2957, FP:719, FN:651, Sensitivity=0.820, Precision=0.804, Recall=0.800, F2=0.801
+
+Epoch:8
+Class A
+TP:32, FP:65, FN:129, Sensitivity=0.199, Precision=0.330, Recall=0.194, F2=0.211
+Class B1
+TP:3012, FP:592, FN:363, Sensitivity=0.892, Precision=0.836, Recall=0.877, F2=0.869
+Class B2
+TP:185, FP:91, FN:59, Sensitivity=0.758, Precision=0.670, Recall=0.550, F2=0.570
+Class B3
+TP:8, FP:15, FN:9, Sensitivity=0.471, Precision=0.348, Recall=0.100, F2=0.117
+Overall
+TP:3237, FP:763, FN:560, Sensitivity=0.853, Precision=0.809, Recall=0.828, F2=0.824
+
+Epoch:10
+Class A
+TP:6, FP:4, FN:152, Sensitivity=0.038, Precision=0.600, Recall=0.050, F2=0.061
+Class B1
+TP:2871, FP:460, FN:518, Sensitivity=0.847, Precision=0.862, Recall=0.825, F2=0.832
+Class B2
+TP:290, FP:358, FN:18, Sensitivity=0.942, Precision=0.448, Recall=0.863, F2=0.728
+Class B3
+TP:18, FP:87, FN:5, Sensitivity=0.783, Precision=0.171, Recall=0.500, F2=0.361
+Overall
+TP:3185, FP:909, FN:693, Sensitivity=0.821, Precision=0.778, Recall=0.788, F2=0.786
+
+Epoch:12
+Class A
+TP:130, FP:372, FN:68, Sensitivity=0.657, Precision=0.259, Recall=0.575, F2=0.462
+Class B1
+TP:2845, FP:388, FN:409, Sensitivity=0.874, Precision=0.880, Recall=0.862, F2=0.865
+Class B2
+TP:175, FP:107, FN:53, Sensitivity=0.768, Precision=0.621, Recall=0.595, F2=0.600
+Class B3
+TP:31, FP:69, FN:6, Sensitivity=0.838, Precision=0.310, Recall=0.400, F2=0.378
+Overall
+TP:3181, FP:936, FN:536, Sensitivity=0.856, Precision=0.773, Recall=0.836, F2=0.822
+
+Epoch:14
+Class A
+TP:95, FP:392, FN:88, Sensitivity=0.519, Precision=0.195, Recall=0.450, F2=0.357
+Class B1
+TP:3083, FP:632, FN:372, Sensitivity=0.892, Precision=0.830, Recall=0.874, F2=0.865
+Class B2
+TP:170, FP:102, FN:51, Sensitivity=0.769, Precision=0.625, Recall=0.611, F2=0.613
+Class B3
+TP:23, FP:104, FN:5, Sensitivity=0.821, Precision=0.181, Recall=0.500, F2=0.370
+Overall
+TP:3371, FP:1230, FN:516, Sensitivity=0.867, Precision=0.733, Recall=0.842, F2=0.817
+
+Epoch:16
+Class A
+TP:128, FP:295, FN:69, Sensitivity=0.650, Precision=0.303, Recall=0.569, F2=0.484
+Class B1
+TP:3347, FP:554, FN:238, Sensitivity=0.934, Precision=0.858, Recall=0.920, F2=0.907
+Class B2
+TP:114, FP:34, FN:79, Sensitivity=0.591, Precision=0.770, Recall=0.397, F2=0.440
+Class B3
+TP:28, FP:31, FN:1, Sensitivity=0.966, Precision=0.475, Recall=0.900, F2=0.763
+Overall
+TP:3617, FP:914, FN:387, Sensitivity=0.903, Precision=0.798, Recall=0.881, F2=0.863
+
+Epoch:18
+Class A
+TP:164, FP:492, FN:45, Sensitivity=0.785, Precision=0.250, Recall=0.719, F2=0.523
+Class B1
+TP:2986, FP:357, FN:357, Sensitivity=0.893, Precision=0.893, Recall=0.879, F2=0.882
+Class B2
+TP:121, FP:59, FN:60, Sensitivity=0.669, Precision=0.672, Recall=0.542, F2=0.564
+Class B3
+TP:43, FP:67, FN:1, Sensitivity=0.977, Precision=0.391, Recall=0.900, F2=0.714
+Overall
+TP:3314, FP:975, FN:463, Sensitivity=0.877, Precision=0.773, Recall=0.858, F2=0.840
+
+Epoch:20
+Class A
+TP:103, FP:208, FN:86, Sensitivity=0.545, Precision=0.331, Recall=0.462, F2=0.429
+Class B1
+TP:2834, FP:461, FN:445, Sensitivity=0.864, Precision=0.860, Recall=0.850, F2=0.852
+Class B2
+TP:236, FP:294, FN:18, Sensitivity=0.929, Precision=0.445, Recall=0.863, F2=0.726
+Class B3
+TP:22, FP:46, FN:6, Sensitivity=0.786, Precision=0.324, Recall=0.400, F2=0.382
+Overall
+TP:3195, FP:1009, FN:555, Sensitivity=0.852, Precision=0.760, Recall=0.830, F2=0.815
+
+Epoch:22
+Class A
+TP:92, FP:150, FN:80, Sensitivity=0.535, Precision=0.380, Recall=0.500, F2=0.470
+Class B1
+TP:2889, FP:367, FN:408, Sensitivity=0.876, Precision=0.887, Recall=0.862, F2=0.867
+Class B2
+TP:159, FP:248, FN:39, Sensitivity=0.803, Precision=0.391, Recall=0.702, F2=0.606
+Class B3
+TP:43, FP:152, FN:1, Sensitivity=0.977, Precision=0.221, Recall=0.900, F2=0.557
+Overall
+TP:3183, FP:917, FN:528, Sensitivity=0.858, Precision=0.776, Recall=0.838, F2=0.825
+
+Epoch:24
+Class A
+TP:123, FP:259, FN:75, Sensitivity=0.621, Precision=0.322, Recall=0.531, F2=0.470
+Class B1
+TP:3179, FP:393, FN:292, Sensitivity=0.916, Precision=0.890, Recall=0.901, F2=0.899
+Class B2
+TP:139, FP:71, FN:49, Sensitivity=0.739, Precision=0.662, Recall=0.626, F2=0.633
+Class B3
+TP:32, FP:60, FN:2, Sensitivity=0.941, Precision=0.348, Recall=0.800, F2=0.635
+Overall
+TP:3473, FP:783, FN:418, Sensitivity=0.893, Precision=0.816, Recall=0.872, F2=0.860
+
+Epoch:26
+Class A
+TP:155, FP:271, FN:63, Sensitivity=0.711, Precision=0.364, Recall=0.606, F2=0.535
+Class B1
+TP:2982, FP:451, FN:303, Sensitivity=0.908, Precision=0.869, Recall=0.898, F2=0.892
+Class B2
+TP:130, FP:64, FN:53, Sensitivity=0.710, Precision=0.670, Recall=0.595, F2=0.609
+Class B3
+TP:25, FP:33, FN:6, Sensitivity=0.806, Precision=0.431, Recall=0.400, F2=0.406
+Overall
+TP:3292, FP:819, FN:425, Sensitivity=0.886, Precision=0.801, Recall=0.870, F2=0.855
+
+Epoch:28
+Class A
+TP:230, FP:958, FN:14, Sensitivity=0.943, Precision=0.194, Recall=0.912, F2=0.524
+Class B1
+TP:2352, FP:199, FN:713, Sensitivity=0.767, Precision=0.922, Recall=0.759, F2=0.787
+Class B2
+TP:162, FP:98, FN:35, Sensitivity=0.822, Precision=0.623, Recall=0.733, F2=0.708
+Class B3
+TP:42, FP:40, FN:2, Sensitivity=0.955, Precision=0.512, Recall=0.800, F2=0.719
+Overall
+TP:2786, FP:1295, FN:764, Sensitivity=0.785, Precision=0.683, Recall=0.766, F2=0.748
+
+Epoch:30
+Class A
+TP:65, FP:86, FN:102, Sensitivity=0.389, Precision=0.430, Recall=0.362, F2=0.374
+Class B1
+TP:3291, FP:489, FN:206, Sensitivity=0.941, Precision=0.871, Recall=0.930, F2=0.918
+Class B2
+TP:69, FP:23, FN:81, Sensitivity=0.460, Precision=0.750, Recall=0.382, F2=0.423
+Class B3
+TP:17, FP:11, FN:5, Sensitivity=0.773, Precision=0.607, Recall=0.500, F2=0.518
+Overall
+TP:3442, FP:609, FN:394, Sensitivity=0.897, Precision=0.850, Recall=0.879, F2=0.873
+
+Epoch:32
+Class A
+TP:132, FP:305, FN:50, Sensitivity=0.725, Precision=0.302, Recall=0.687, F2=0.548
+Class B1
+TP:2832, FP:372, FN:371, Sensitivity=0.884, Precision=0.884, Recall=0.875, F2=0.877
+Class B2
+TP:116, FP:37, FN:65, Sensitivity=0.641, Precision=0.758, Recall=0.504, F2=0.540
+Class B3
+TP:38, FP:31, FN:3, Sensitivity=0.927, Precision=0.551, Recall=0.700, F2=0.664
+Overall
+TP:3118, FP:745, FN:489, Sensitivity=0.864, Precision=0.807, Recall=0.850, F2=0.841
+
+Epoch:34
+Class A
+TP:112, FP:209, FN:60, Sensitivity=0.651, Precision=0.349, Recall=0.625, F2=0.540
+Class B1
+TP:2495, FP:307, FN:487, Sensitivity=0.837, Precision=0.890, Recall=0.836, F2=0.846
+Class B2
+TP:116, FP:42, FN:56, Sensitivity=0.674, Precision=0.734, Recall=0.573, F2=0.599
+Class B3
+TP:26, FP:23, FN:3, Sensitivity=0.897, Precision=0.531, Recall=0.700, F2=0.658
+Overall
+TP:2749, FP:581, FN:606, Sensitivity=0.819, Precision=0.826, Recall=0.814, F2=0.817
+
+Epoch:36
+Class A
+TP:77, FP:130, FN:92, Sensitivity=0.456, Precision=0.372, Recall=0.425, F2=0.413
+Class B1
+TP:2896, FP:400, FN:302, Sensitivity=0.906, Precision=0.879, Recall=0.898, F2=0.894
+Class B2
+TP:96, FP:30, FN:62, Sensitivity=0.608, Precision=0.762, Recall=0.527, F2=0.561
+Class B3
+TP:25, FP:15, FN:7, Sensitivity=0.781, Precision=0.625, Recall=0.300, F2=0.335
+Overall
+TP:3094, FP:575, FN:463, Sensitivity=0.870, Precision=0.843, Recall=0.858, F2=0.855
+
+Epoch:38
+Class A
+TP:95, FP:155, FN:75, Sensitivity=0.559, Precision=0.380, Recall=0.531, F2=0.492
+Class B1
+TP:2952, FP:460, FN:230, Sensitivity=0.928, Precision=0.865, Recall=0.922, F2=0.910
+Class B2
+TP:94, FP:37, FN:63, Sensitivity=0.599, Precision=0.718, Recall=0.519, F2=0.549
+Class B3
+TP:19, FP:13, FN:6, Sensitivity=0.760, Precision=0.594, Recall=0.400, F2=0.428
+Overall
+TP:3160, FP:665, FN:374, Sensitivity=0.894, Precision=0.826, Recall=0.885, F2=0.873
+
+Epoch:40
+Class A
+TP:130, FP:270, FN:54, Sensitivity=0.707, Precision=0.325, Recall=0.662, F2=0.549
+Class B1
+TP:2468, FP:319, FN:510, Sensitivity=0.829, Precision=0.886, Recall=0.828, F2=0.839
+Class B2
+TP:102, FP:26, FN:65, Sensitivity=0.611, Precision=0.797, Recall=0.504, F2=0.544
+Class B3
+TP:30, FP:66, FN:3, Sensitivity=0.909, Precision=0.312, Recall=0.700, F2=0.561
+Overall
+TP:2730, FP:681, FN:632, Sensitivity=0.812, Precision=0.800, Recall=0.806, F2=0.805
+
+Epoch:42
+Class A
+TP:113, FP:175, FN:68, Sensitivity=0.624, Precision=0.392, Recall=0.575, F2=0.526
+Class B1
+TP:2574, FP:358, FN:405, Sensitivity=0.864, Precision=0.878, Recall=0.863, F2=0.866
+Class B2
+TP:74, FP:24, FN:65, Sensitivity=0.532, Precision=0.755, Recall=0.504, F2=0.540
+Class B3
+TP:8, FP:8, FN:8, Sensitivity=0.500, Precision=0.500, Recall=0.200, F2=0.227
+Overall
+TP:2769, FP:565, FN:546, Sensitivity=0.835, Precision=0.831, Recall=0.833, F2=0.832
+
+Epoch:44
+Class A
+TP:80, FP:143, FN:87, Sensitivity=0.479, Precision=0.359, Recall=0.456, F2=0.433
+Class B1
+TP:2668, FP:478, FN:328, Sensitivity=0.891, Precision=0.848, Recall=0.889, F2=0.881
+Class B2
+TP:81, FP:29, FN:62, Sensitivity=0.566, Precision=0.736, Recall=0.527, F2=0.559
+Class B3
+TP:13, FP:11, FN:5, Sensitivity=0.722, Precision=0.542, Recall=0.500, F2=0.508
+Overall
+TP:2842, FP:661, FN:482, Sensitivity=0.855, Precision=0.811, Recall=0.852, F2=0.844
+
+Epoch:46
+Class A
+TP:88, FP:190, FN:73, Sensitivity=0.547, Precision=0.317, Recall=0.544, F2=0.475
+Class B1
+TP:2470, FP:323, FN:394, Sensitivity=0.862, Precision=0.884, Recall=0.867, F2=0.870
+Class B2
+TP:81, FP:17, FN:63, Sensitivity=0.562, Precision=0.827, Recall=0.519, F2=0.561
+Class B3
+TP:16, FP:17, FN:2, Sensitivity=0.889, Precision=0.485, Recall=0.800, F2=0.708
+Overall
+TP:2655, FP:547, FN:532, Sensitivity=0.833, Precision=0.829, Recall=0.837, F2=0.835
+
+Epoch:48
+Class A
+TP:73, FP:142, FN:81, Sensitivity=0.474, Precision=0.340, Recall=0.494, F2=0.453
+Class B1
+TP:2511, FP:370, FN:431, Sensitivity=0.854, Precision=0.872, Recall=0.854, F2=0.858
+Class B2
+TP:89, FP:29, FN:61, Sensitivity=0.593, Precision=0.754, Recall=0.534, F2=0.567
+Class B3
+TP:13, FP:17, FN:4, Sensitivity=0.765, Precision=0.433, Recall=0.600, F2=0.557
+Overall
+TP:2686, FP:558, FN:577, Sensitivity=0.823, Precision=0.828, Recall=0.823, F2=0.824
+
+Epoch:50
+Class A
+TP:58, FP:122, FN:95, Sensitivity=0.379, Precision=0.322, Recall=0.406, F2=0.386
+Class B1
+TP:2594, FP:326, FN:408, Sensitivity=0.864, Precision=0.888, Recall=0.862, F2=0.867
+Class B2
+TP:86, FP:29, FN:60, Sensitivity=0.589, Precision=0.748, Recall=0.542, F2=0.574
+Class B3
+TP:9, FP:10, FN:7, Sensitivity=0.562, Precision=0.474, Recall=0.300, F2=0.324
+Overall
+TP:2747, FP:487, FN:570, Sensitivity=0.828, Precision=0.849, Recall=0.825, F2=0.830
+
+Epoch:6, Sensitivity=0.820, Precision=0.804, Recall=0.800, F2=0.801
+Epoch:8, Sensitivity=0.853, Precision=0.809, Recall=0.828, F2=0.824
+Epoch:10, Sensitivity=0.821, Precision=0.778, Recall=0.788, F2=0.786
+Epoch:12, Sensitivity=0.856, Precision=0.773, Recall=0.836, F2=0.822
+Epoch:14, Sensitivity=0.867, Precision=0.733, Recall=0.842, F2=0.817
+Epoch:16, Sensitivity=0.903, Precision=0.798, Recall=0.881, F2=0.863
+Epoch:18, Sensitivity=0.877, Precision=0.773, Recall=0.858, F2=0.840
+Epoch:20, Sensitivity=0.852, Precision=0.760, Recall=0.830, F2=0.815
+Epoch:22, Sensitivity=0.858, Precision=0.776, Recall=0.838, F2=0.825
+Epoch:24, Sensitivity=0.893, Precision=0.816, Recall=0.872, F2=0.860
+Epoch:26, Sensitivity=0.886, Precision=0.801, Recall=0.870, F2=0.855
+Epoch:28, Sensitivity=0.785, Precision=0.683, Recall=0.766, F2=0.748
+Epoch:30, Sensitivity=0.897, Precision=0.850, Recall=0.879, F2=0.873
+Epoch:32, Sensitivity=0.864, Precision=0.807, Recall=0.850, F2=0.841
+Epoch:34, Sensitivity=0.819, Precision=0.826, Recall=0.814, F2=0.817
+Epoch:36, Sensitivity=0.870, Precision=0.843, Recall=0.858, F2=0.855
+Epoch:38, Sensitivity=0.894, Precision=0.826, Recall=0.885, F2=0.873
+Epoch:40, Sensitivity=0.812, Precision=0.800, Recall=0.806, F2=0.805
+Epoch:42, Sensitivity=0.835, Precision=0.831, Recall=0.833, F2=0.832
+Epoch:44, Sensitivity=0.855, Precision=0.811, Recall=0.852, F2=0.844
+Epoch:46, Sensitivity=0.833, Precision=0.829, Recall=0.837, F2=0.835
+Epoch:48, Sensitivity=0.823, Precision=0.828, Recall=0.823, F2=0.824
+Epoch:50, Sensitivity=0.828, Precision=0.849, Recall=0.825, F2=0.830
+
+Best Epoch:30, Sensitivity=0.897, Precision=0.850, Recall=0.879, F2=0.873
