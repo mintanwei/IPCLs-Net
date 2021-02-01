@@ -1,4 +1,4 @@
-# IPCLs-Net: Analyzing Distribution of Intrapapillary Capillary Loops and Predicting Cancer Invasion Depth via Embedding Prior Knowledge of Clustering
+# Analyzing Distribution of Intrapapillary Capillary Loops and Predicting Cancer Invasion Depth via Embedding Prior Knowledge of Clustering
 
 Schematic representation of IPCLs-Net workflow
 ![Workflow](https://github.com/mintanwei/IPCLs-Net/blob/main/results/Workflow_of_IPCLsNet.bmp) 
@@ -39,7 +39,7 @@ The morphological pattern of intrapapillary capillary loop (IPCL) under magnific
   
 
 ## Our proposed Feature Context Prior Embedding (FCPE) module
-![FCPE](https://github.com/mintanwei/IPCLs-Net/blob/main/results/FCPE.bmp) 
+![FCPE](https://github.com/mintanwei/IPCLs-Net/blob/main/results/FCPE.bmp width="350") 
   
 ## Results of IPCLs-Net
 ![Results](https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png) 
