@@ -39,7 +39,7 @@ The morphological pattern of intrapapillary capillary loop (IPCL) under magnific
   
 
 ## 5. Our proposed Feature Context Prior Embedding (FCPE) module
-<img src="https://github.com/mintanwei/IPCLs-Net/blob/main/results/FCPE.bmp" width="600">
+<img src="https://github.com/mintanwei/IPCLs-Net/blob/main/results/FCPE.bmp" width="700">
   
 ## 6. Results of IPCLs-Net
-<img src="https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png" width="1000">
+<img src="https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png" width="800">
