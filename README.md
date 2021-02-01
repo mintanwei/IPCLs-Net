@@ -1,6 +1,6 @@
 # IPCLs-Net: Analyzing Distribution of Intrapapillary Capillary Loops and Predicting Cancer Invasion Depth via Embedding Prior Knowledge of Clustering
 
-![image](https://github.com/mintanwei/IPCLs-Net/tree/main/results/Outputs of IPCLs-Net.bmp)
+![image](https://github.com/mintanwei/IPCLs-Net/tree/main/results/Outputs of IPCLs-Net.bmp) 
 
 # 1. Overview
 The morphological pattern of intrapapillary capillary loop (IPCL) under magnification endoscopy directly correlates with the destruction of the original mucosal structure, depth of invasion, and treatment modality chosen for submucosal invasive cancer. Endoscopists have utilized it on diagnosing cancer with only limited clinical value, because the relationship of the distribution of IPCL with the depth of invasion is not quantitative and clear currently. Here we show that the complex distribution of IPCL can be quantified and used to predict the depth of invasion via an IPCLs-Net that is a novel artificial intelligence model embedded with prior knowledge of clustering. We have successfully implemented the IPCLs-Net model on an endoscopic diagnosis system for clinical utilization. Experimental results demonstrate that our model achieves remarkable performance in quantifying IPCL distribution on a dataset containing 14,832 IPCL vessels and significantly improves the diagnostic ability of endoscopists in predicting the depth of invasion. IPCLs-Net is of great significance for endoscopists to know the pathology and depth of invasion in advance, and to make correct treatment modality chosen.
