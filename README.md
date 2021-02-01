@@ -44,4 +44,6 @@ The morphological pattern of intrapapillary capillary loop (IPCL) under magnific
 </p>
 
 ## 6. Results of IPCLs-Net
-<img align="center" src="https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png" width="800">
+<p align="center">
+<img align="center" src="https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png" width="820">
+</p>
