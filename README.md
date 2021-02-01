@@ -1,7 +1,7 @@
 # IPCLs-Net: Analyzing Distribution of Intrapapillary Capillary Loops and Predicting Cancer Invasion Depth via Embedding Prior Knowledge of Clustering
 
-## Result of IPCLs-Net
-![](https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png) 
+## Results of IPCLs-Net
+![Results](https://github.com/mintanwei/IPCLs-Net/blob/main/results/Outputs_of_IPCLsNet.png) 
 
 
 ## 1. Overview
